@@ -1,16 +1,24 @@
-### Hi there 👋
+  Hello, Devs!!
+  <hr width="1100" align="left">
+  <p>Me chamo David Oliveira, tenho 30 anos, moro em Jaboatão dos Guararapes/PE. Estou me aventurando no universo da
+    programação, e quanto mais eu aprendo e passo raiva, mais eu vejo que adoro a programação.</p>
+  <p>No momento estou em transição de carreira para programador!</p>  
 
-<!--
-**SrDavidOliveira/SrDavidOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ### Ferramentas e Tecnologias
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
+    width="40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
+    width="40" height="40" />
+  <br>
+ ### Estou aprendendo
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"
+    height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+    width="40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    width="40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
+    width="40" height="40" />
+  <br> <br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![David Status](https://github-readme-stats.vercel.app/api?username=SrDavidOliveira&show_icons=true&theme=transparent)
