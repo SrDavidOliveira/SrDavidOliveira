@@ -1,5 +1,5 @@
   Hello, Devs!!
-  <hr width="900" align="left">
+  <hr width="800" align="left">
   <p>Me chamo David Oliveira, tenho 30 anos, moro em Jaboatão dos Guararapes/PE. Estou me aventurando no universo da
     programação, e quanto mais eu aprendo e passo raiva, mais eu vejo que adoro a programação.</p>
   <p>No momento estou em transição de carreira para programador!</p>  
